@@ -74,23 +74,3 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
     };
   }
 };
-
-
-/*
-
-1) 3000 products , items done
-2) typescript done
-3) unit test done
-4) clean code 
-5) add db ? maybe
-6) diagram , text, picture
-7) more SEO ?
-8) list question and scaling 
-9) error handler, 404 page ? error ? done
-10) styling look better ? mobile done
-11) lazy load ? paging or infinity loading
-12) security , husky, tool, audit package ?
-13) get some random images ?
-
-
-*/
